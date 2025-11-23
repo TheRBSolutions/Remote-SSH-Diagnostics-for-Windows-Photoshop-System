@@ -1,0 +1,1 @@
+# Remote-SSH-Diagnostics-for-Windows-Photoshop-System
